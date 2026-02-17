@@ -43,5 +43,5 @@ Financial analysts often struggle with fragmented data sources and "stale" repor
 
 **Refresh:** Click refresh to pull the latest 100 days of market data.
 
-![Project Dashboard](Real Time Stock Market Analyzer.png)
+![Real-Time Stock Market Analyzer](Real-Time%20Stock%20Market%20Analyzer.png)
 
