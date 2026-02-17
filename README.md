@@ -11,7 +11,8 @@ Financial analysts often struggle with fragmented data sources and "stale" repor
 
 **Reducing Analytical Overhead:** Using AI-driven narratives to summarize complex trends instantly.
 
-##Technical Stack
+## Technical Stack
+
 **BI Tool:** Power BI Desktop / Service.
 
 **Data Source:** Alpha Vantage API (JSON).
@@ -41,4 +42,6 @@ Financial analysts often struggle with fragmented data sources and "stale" repor
 **Parameters:** Enter your API key and desired Ticker symbols into the Power BI "Edit Parameters" menu.
 
 **Refresh:** Click refresh to pull the latest 100 days of market data.
+
+![Project Dashboard](Real Time Stock Market Analyzer.png)
 
