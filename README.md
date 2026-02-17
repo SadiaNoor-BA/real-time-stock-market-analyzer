@@ -51,7 +51,7 @@ Financial analysts often struggle with fragmented data sources and "stale" repor
 **Refresh:** Click refresh to pull the latest 100 days of market data.
 
 
-  ####### **Note on Data Refresh:** To protect privacy, the API Key has been removed. Upon opening the .pbix file, you will encounter a **'null'** conversion error. To resolve this, go to **Transform Data > Edit Parameters,** enter your Alpha Vantage API Key, and click **Refresh**.
+   **Note on Data Refresh:** To protect privacy, the API Key has been removed. Upon opening the .pbix file, you will encounter a **'null'** conversion error. To resolve this, go to **Transform Data > Edit Parameters,** enter your Alpha Vantage API Key, and click **Refresh**.
    
 
 ![Real-Time Stock Market Analyzer](Real-Time%20Stock%20Market%20Analyzer.png)
