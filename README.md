@@ -34,6 +34,13 @@ Financial analysts often struggle with fragmented data sources and "stale" repor
 
 **Operational Metadata:** Implemented a **"Last Data Refresh"** timestamp to ensure data integrity and transparency for stakeholders.
 
+## Key Outcomes
+**Zero-Latency Reporting:** Automated refresh cycles ensure the "Last Data Refresh" is always visible, maintaining data integrity.
+
+**Enhanced Visualization:** Developed custom time-series charts that track multiple assets against a moving average on a single synchronized axis.
+
+**Scalability:** The architecture is built to scale; new tickers or financial instruments can be added via simple parameter updates.
+
 ## How to Use
 **Clone the Repository:** Download the .pbix file.
 
@@ -43,7 +50,9 @@ Financial analysts often struggle with fragmented data sources and "stale" repor
 
 **Refresh:** Click refresh to pull the latest 100 days of market data.
 
-   **Note on Data Refresh:** To protect privacy, the API Key has been removed. Upon opening the .pbix file, you will encounter a **'null'** conversion error. To resolve this, go to **Transform Data > Edit Parameters,** enter your Alpha Vantage API Key, and click **Refresh**.
+
+  ####### **Note on Data Refresh:** To protect privacy, the API Key has been removed. Upon opening the .pbix file, you will encounter a **'null'** conversion error. To resolve this, go to **Transform Data > Edit Parameters,** enter your Alpha Vantage API Key, and click **Refresh**.
+   
 
 ![Real-Time Stock Market Analyzer](Real-Time%20Stock%20Market%20Analyzer.png)
 
